@@ -2,7 +2,7 @@
 
 Online site of a pizzeria with ability to choose your favorite pizza by category, recommendation, price or alphabetically. Also with the possibility to order pizza on thin or thick dough and different sizes.
 
-**Техническая составляющая проекта:**
+## Technical component of the project:
 
 * JavaScript
 * HTML
@@ -22,7 +22,7 @@ Online site of a pizzeria with ability to choose your favorite pizza by category
 `npm run start` — starts the server   
 `npm run dev` — starts server with hot-reload
 
-## Links 
+## Links:
 
 **[Project: React Pizza](https://github.com/NadezdaPL/react-pizza)**
 
