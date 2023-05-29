@@ -45,10 +45,13 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage": "https://nadezdapl.github.io/react-pizza/",
+  "homepage": "https://nadezdapl.github.io/react-pizza",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/react-pizza.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NadezdaPL/react-pizza/issues"
   }
 }
