@@ -16,6 +16,10 @@ Online site of a pizzeria with ability to choose your favorite pizza by category
 * Prettier
 * React Content Loader
 
+## Bugs that need to be addressed in the future:
+- display pizza in large size;
+- fix errors includes;
+- modify project styles.
 
 ## The project can be started with the commands:
 
@@ -24,6 +28,6 @@ Online site of a pizzeria with ability to choose your favorite pizza by category
 
 ## Links:
 
-**[Project: React Pizza](https://nadezdapl.github.io/react-pizza)**
+**[Project: React Pizza](https://nadezdapl.github.io)**
 
 **[Layout in Figma](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVhvV193UGZfWWp2V0ozbnpEWVhOWmhhR010QXxBQ3Jtc0tsUDE0aTIyYmdob251QnpNR3RIVldZbTl3VVZHRjNCZWZzalZTUHJsbThzRnAyX1lSRnZaX005cVkydVV2S0FjcHRfVkd6VE91MmRDcnl1Y3hKZ20xdTM2YUdMd18wVWRiOC1oQ3NYUnloV2puY0F2cw&q=https%3A%2F%2Fwww.figma.com%2Ffile%2FwWUnQwvRDWBfPx1v1pCAfO%2FReact-Pizza&v=VHQxz5Cdrc8)**
